@@ -1,9 +1,3 @@
-# Shell, basics
-
-## Description
-
-scripts and this functions
-
 ## Scripts
 
 ### 1. `0-current_working_directory`
