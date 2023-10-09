@@ -1,2 +1,1 @@
-# holbertonschool-shell
-Holberton Shell, basics project 
+This repocitory is about Holberto School Sprint 1 Shell project
