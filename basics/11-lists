@@ -1,2 +1,2 @@
 #!/bin/bash
-(cat <(ls -lA) | cat <(cd .. && ls -lA) | cat <(cd /boot && ls -lA))
+ls -la . - /boot
