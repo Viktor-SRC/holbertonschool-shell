@@ -1,2 +1,2 @@
 #!/bin/bash
-{ ls -lA && cd .. && ls -lA && cd / && ls -lA; } | less
+(cat <(ls -lA) | cat <(cd .. && ls -lA) | cat <(cd /boot && ls -lA))
