@@ -1,2 +1,5 @@
 #!/bin/bash
-find . -user guillaume -exec chown vincent hello
+if [ "$(stat -c '%U' hello)" = "guillaume" ]
+then chown vincent hello
+fi
+o
