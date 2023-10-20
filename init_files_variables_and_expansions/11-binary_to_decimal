@@ -1,0 +1,2 @@
+#!/biin/bash
+printf "%d\n" $((2#$BINARY)) 
