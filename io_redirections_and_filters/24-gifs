@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name "*.gif" -exec ls -l {} + | sort -k5 -n | awk '{print $9}' | sed 's/\(.*\)\..*/\1/'
