@@ -1,0 +1,15 @@
+total 88
+drwxr-xr-x  14 viktor.src  staff  448 Mar 17 18:49 .
+drwxr-xr-x   7 viktor.src  staff  224 Mar 13 23:50 ..
+-rwxr--r--   1 viktor.src  staff   31 Mar 15 14:31 0-hello_world
+-rwxr-xr-x   1 viktor.src  staff   27 Mar 15 15:54 1-confused_smiley
+-rwxr-xr-x   1 viktor.src  staff   27 Mar 15 19:58 2-hellofile
+-rwxr--r--   1 viktor.src  staff   38 Mar 16 19:54 3-twofiles
+-rwxr--r--   1 viktor.src  staff   34 Mar 17 15:34 4-lastlines
+-rwxr--r--   1 viktor.src  staff   34 Mar 17 15:39 5-firstlines
+-rwxr-xr-x   1 viktor.src  staff   40 Mar 17 18:31 6-third_line
+-rwxr-xr-x   1 viktor.src  staff   87 Mar 17 18:34 7-file
+-rwxr--r--   1 viktor.src  staff   35 Mar 17 18:49 8-cwd_state
+-rw-r--r--   1 viktor.src  staff   67 Mar 13 23:50 README.md
+-rw-r--r--   1 viktor.src  staff   12 Mar 17 18:34 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 viktor.src  staff    0 Mar 17 18:49 ls_cwd_content
