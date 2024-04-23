@@ -1,0 +1,2 @@
+#!/bin/bash
+water_dec=(((echo “ibase=5; ${WATER^^}” | bc) ))stir_dec
