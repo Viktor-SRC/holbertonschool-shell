@@ -1,0 +1,1 @@
+This directory is abouth Shell, permissions project from Holberton Sprint 
